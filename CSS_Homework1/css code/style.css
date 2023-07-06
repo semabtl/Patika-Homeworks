@@ -1,0 +1,39 @@
+/* Kitaplar için kullanılan class */
+.book {
+    text-align: justify;
+    width: 400px;
+    border: 10px;
+    padding: 10px;
+    margin: auto;
+}
+/* Metni sayfanın ortasında görmek için class */
+.text-centered {
+    text-align: center;
+}
+
+/* Hakkımda yazısı için */
+#about-me-line {
+    text-align: justify;
+    width: 900px;
+    border: 10px;
+    padding: 10px;
+    margin: auto;
+}
+
+/* Başlıklar ve renkleri */
+h1 {
+    color: #FF78C4;
+}
+h2 {
+    color: #c573f5;
+}
+
+/* Arkaplan rengi */
+body {
+    background-color: #FFECEC;
+}
+
+/* Resimler için left margin ayarı */
+img {
+    margin-left: 100px;
+}
