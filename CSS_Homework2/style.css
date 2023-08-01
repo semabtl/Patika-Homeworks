@@ -1,0 +1,52 @@
+/* Görselin ayarlamaları */
+.image{  
+    display: block;
+    margin: 0 auto;
+}
+/* Üstteki kutunun ayarları */
+.first-box{
+    background-color: rgb(238, 238, 238);
+    width:90%;
+    text-align: -webkit-center;
+    margin:0 auto;
+}
+.second-box{
+    width:90%;
+    margin:0 auto;
+}
+/* Küçük yeşil kutuların boyut vb. ayarları */
+.card{
+    text-align: -webkit-center;
+    margin: 1px;
+    padding: 1px;
+    float: left;
+    height: 72px;
+}
+/* Elementin sağında ve solunda başka eleman bulunmaması için */
+.clear{
+    clear: both;
+}
+.width-37{
+    width: 37%;
+}
+.width-20{
+    width: 20%;
+}
+.width-42{
+    width: 42.12%;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-13{
+    font-size: 13px;
+}
+.bg-lightgreen{
+    background-color: #7EE5DA;
+}
+.bg-green{
+    background-color: #70CCC2;
+}
+.bg-darkgreen{
+    background-color: #62B3AA;
+}
