@@ -3,6 +3,7 @@
     display: block;
     margin: 0 auto;
 }
+
 /* Üstteki kutunun ayarları */
 .first-box{
     background-color: rgb(238, 238, 238);
@@ -10,10 +11,13 @@
     text-align: -webkit-center;
     margin:0 auto;
 }
+
+/* Alttaki kutunun ayarları */
 .second-box{
     width:90%;
     margin:0 auto;
 }
+
 /* Küçük yeşil kutuların boyut vb. ayarları */
 .card{
     text-align: -webkit-center;
@@ -26,6 +30,8 @@
 .clear{
     clear: both;
 }
+
+/* Genişlik ayarları */
 .width-37{
     width: 37%;
 }
@@ -35,12 +41,16 @@
 .width-42{
     width: 42.12%;
 }
+
+/* Font size ayarları */
 .fs-16{
     font-size: 16px;
 }
 .fs-13{
     font-size: 13px;
 }
+
+/* Arkaplan rengi ayarları */
 .bg-lightgreen{
     background-color: #7EE5DA;
 }
